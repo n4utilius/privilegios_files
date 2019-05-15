@@ -1,0 +1,28 @@
+{
+	"nodes": [
+        { "name": "Decil 1" },
+        { "name": "Decil 2" },
+        { "name": "Decil 3" },
+        { "name": "Decil 4" },
+        { "name": "Decil 5" },
+        { "name": "Decil 6" },
+        { "name": "Decil 7" },
+        { "name": "Decil 8" },
+        { "name": "Decil 9" },
+        { "name": "Decil 10" }
+    ],
+	"links": [
+        { "source": 0, "target": 1,"value": 837257.61 },
+        { "source": 0, "target": 2,"value": 2054714 },
+        { "source": 0, "target": 3,"value": 3622463.7 },
+        { "source": 0, "target": 4,"value": 6433819 },
+        { "source": 0, "target": 5,"value": 10050945 },
+        { "source": 0, "target": 6,"value": 15234987 },
+        { "source": 0, "target": 7,"value": 23283508.25 },
+        { "source": 0, "target": 8,"value": 36645583.63 },
+        { "source": 0, "target": 9,"value": 69966057.27 },
+        { "source": 0, "target": 10,"value": 4264278137.28 }
+    ]
+}
+
+									
