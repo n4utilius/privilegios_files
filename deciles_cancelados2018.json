@@ -1,10 +1,9 @@
 {
     "links": [
-        {"source":"41,399 Empresas","target":"36 Empresas","value":"36"},
-        {"source":"41,399 Empresas","target":"41,363 Empresas","value":"41363"},
-        
-        {"source":"36 Empresas","target":"50.2","value":"80161"},
-        {"source":"41,363 Empresas","target":"49.8","value":"79549"}
+        {"source":"41,399 Empresas","target":"41,363 Empresas","value":41363},
+        {"source":"41,399 Empresas","target":"36 Empresas","value":36},       
+        {"source":"36 Empresas","target":"50.2","value":80161},
+        {"source":"41,363 Empresas","target":"49.8","value":79549}
     ] ,
     "nodes": [
         {"name":"41,399 Empresas"},
