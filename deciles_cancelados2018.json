@@ -7,12 +7,12 @@
         {"source":"50.2%","target":"36 Empresas","value":36}
     ] ,
     "nodes": [
-        {"name":"159,710 MDP", tag:"100%"},
+        {"name":"159,710 MDP", "tag":"100%"},
         
-        {"name":"36 Empresas", tag:"50.2%"},
-        {"name":"41,363 Empresas", tag:"49.8%"},
-        {"name":"50.2%", tag:"36 Empresas"},
-        {"name":"49.8%", tag:"41,363 Empresas"}
+        {"name":"36 Empresas", "tag":"50.2%"},
+        {"name":"41,363 Empresas", "tag":"49.8%"},
+        {"name":"50.2%", "tag":"36 Empresas"},
+        {"name":"49.8%", "tag":"41,363 Empresas"}
     ] 
 }
 
